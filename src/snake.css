@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+canvas {
+  background-color: rgb(184, 235, 103);
+}
+
+.start-screen {
+  background-color: rgb(184, 235, 103);
+  margin : 0 !important;
+  padding : 0 !important;
+  height: 100vh !important;
+}
